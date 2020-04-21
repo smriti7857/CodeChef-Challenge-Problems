@@ -1,2 +1,2 @@
-# COVID-Pandemic-and-Long-Queue
-A problem from Codechef-April Long Challenge.
+# Codechef Challenge Problems
+Problems from CodeChef long, cook and lunchtime challenges
